@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaskont
-- 👀 I’m interested in learning new stuff, working with great people and work on intresting and up-to-date projects!
+- 👀 I’m interested in learning new stuff, working with great people and work on intresting projects!
 - 🌱 I’m currently learning some Front-End Development Patterns (React-Redux-Rxjs).
 - 📫 How to reach me: bkontopoulos96@gmail.com
 
